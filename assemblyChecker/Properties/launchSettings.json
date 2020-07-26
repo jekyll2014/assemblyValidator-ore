@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "assemblyChecker": {
+      "commandName": "Project",
+      "commandLineArgs": "/r C:\\_projects\\ERP10CC\\ >test.txt"
+    }
+  }
+}
