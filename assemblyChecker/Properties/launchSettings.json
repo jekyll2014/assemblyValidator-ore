@@ -2,7 +2,7 @@
   "profiles": {
     "assemblyChecker": {
       "commandName": "Project",
-      "commandLineArgs": "D:\\6\\ERP10CC\\_Server\\Assemblies\\ >asdf"
+      "commandLineArgs": "/r /c /v D:\\6\\_Client >report.txt"
     }
   }
 }
